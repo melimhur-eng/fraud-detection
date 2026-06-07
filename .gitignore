@@ -10,10 +10,13 @@ __pycache__/
 
 # Data
 data/raw/
-data/processed/
+data/raw/processed/
 
 # Models
 models/
 
 # Environment Variables
 .env
+
+
+.DS_Store
