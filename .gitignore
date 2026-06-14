@@ -13,7 +13,8 @@ data/raw/
 data/raw/processed/
 
 # Models
-models/
+# models/
+models/fraud_random_forest.pkl
 
 # Environment Variables
 .env
